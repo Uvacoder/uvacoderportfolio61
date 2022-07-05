@@ -4,6 +4,7 @@ date: 2022-07-04
 ---
 
 You probably think the title is clickbait, but it’s not. Just read along, and I will prove it in the next few minutes.
+> Clickbait describes misleading internet content or shocking headline titles that aim to drive traffic to a website.
 
 Bring out your mobile phone and save a new contact with the following details:
 - Name: akash

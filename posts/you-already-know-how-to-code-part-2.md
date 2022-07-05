@@ -117,7 +117,7 @@ Hello World
 That’s roughly how every tiny feature on your phone works.
 When you click an icon or a button on your phone, a function runs and executes the task.
 
-Now you know how to think like a programmer.
+## Now you know how to think like a programmer.
 
 Pick up another feature of your phone and try to visualize it using code just like we did above.
 If you get stuck, help is just a google search away.
