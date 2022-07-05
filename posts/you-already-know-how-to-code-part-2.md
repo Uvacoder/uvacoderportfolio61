@@ -37,7 +37,7 @@ To write a re-usable code where only some values change every time we use someth
 
 (you don’t have to remember anything; we will google what we need when we need it)
 
-Open <a href="https://google.com" target="_blank">Google</a> and search how to create function in python click on the first result and look at the example. The function will look something like below.
+Open <a href="https://google.com" target="_blank">Google</a> and search for _"how to create function in python"_ click on the first result and look at the example. The function will look something like below.
 
 ```
 def my_function():
@@ -77,7 +77,7 @@ def send_message(recipient, message_text):
 If you try to run this code, nothing will happen.
 Since functions are re-usable code, it does not run by itself until you specifically call it. Just like to send a message on WhatsApp, you have to click on the send icon. Let’s fix that.
 We will call the function and provide it two values, contact as recipient and the text we want to send as message text.
-(you can again google for how to call a function in python)
+(you can again google for _how to call a function in python_)
 
 ```
 akash = 9999999999
@@ -91,7 +91,7 @@ send_message(akash, ‘Hello World’)
 ```
 
 Run the function now.
-You will see the output as “Hello from a function”, because our function currently just prints that text.
+You will see the output as `Hello from a function`, because our function currently just prints that text.
 Let’s fix that.
 
 ```

@@ -10,32 +10,28 @@
   <title>{name}</title>
 </svelte:head>
 
-<div class="flex flex-col flex-grow">
-  <div class="container flex flex-col px-6 py-10 mx-auto space-y-6 lg:h-[32rem] lg:py-16 lg:flex-row lg:items-center">
-    <div class="w-full">
-      <div class="lg:max-w-lg">
-        <h1 class="mb-3 text-3xl font-bold tracking-tight text-black dark:text-white md:text-5xl">
-          Akash
-          <span
-            class="relative ml-2 inline-block before:absolute before:-inset-1 before:block before:-skew-y-3 before:bg-gradient-to-r from-blue-500 to-teal-500 dark:from-violet-500 dark:to-pink-500"
-            ><span class="relative skew-y-3 text-white">@ak4zh</span></span
-          >
-          Agarwal
-        </h1>
-  
-        <div class="mt-8 space-y-2">
-          <p class="flex items-center -mx-2 text-gray-700 dark:text-gray-200 text-2xl">
-            <span class="mx-2">A self-taught full stack developer</span>
-          </p>
-  
-          <p class="flex items-center -mx-2 text-gray-700 dark:text-gray-200 font-light">
-            <span class="mx-2">Learning by doing is the only way I know how to learn.</span>
-          </p>
-        </div>
-      </div>
-    </div>
-  
+<div class="container px-6 py-16 mx-auto text-center">
+  <div class="max-w-lg mx-auto">
+      <h1 class="mb-3 text-3xl font-bold tracking-tight text-black dark:text-white md:text-5xl">
+        Akash
+        <span
+          class="relative ml-2 inline-block before:absolute before:-inset-1 before:block before:-skew-y-3 before:bg-gradient-to-r from-blue-500 to-teal-500 dark:from-violet-500 dark:to-pink-500"
+          ><span class="relative skew-y-3 text-white">@ak4zh</span></span
+        >
+        Agarwal
+      </h1>
+
+      <div class="mt-8 space-y-2">
+        <p class="mt-6 text-gray-500 dark:text-gray-300">
+          <span class="mx-2">A self-taught full stack developer</span>
+        </p>
+
+        <p class="mt-6 text-gray-700 dark:text-gray-200 font-light">
+          <span class="mx-2">Learning by doing is the only way I know how to learn.</span>
+        </p>
   </div>
+</div>
+
 
   <!-- recent posts -->
   <h2 class="flex items-baseline gap-4 !mb-2">
