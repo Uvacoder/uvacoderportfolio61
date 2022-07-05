@@ -17,7 +17,7 @@
         <h1 class="mb-3 text-3xl font-bold tracking-tight text-black dark:text-white md:text-5xl">
           Akash
           <span
-            class="relative ml-2 inline-block before:absolute before:-inset-1 before:block before:-skew-y-3 before:bg-blue-500"
+            class="relative ml-2 inline-block before:absolute before:-inset-1 before:block before:-skew-y-3 before:bg-gradient-to-r from-blue-500 to-teal-500 dark:from-violet-500 dark:to-pink-500"
             ><span class="relative skew-y-3 text-white">@ak4zh</span></span
           >
           Agarwal
