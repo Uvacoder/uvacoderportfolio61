@@ -3,7 +3,7 @@ title: You already know how to code - Part Two
 date: 2022-07-05
 ---
 
-In [part one](./you-already-know-how-to-code-part-1), we learned that you already know how to code and probably do it every day.
+In part one, we learned that you already know how to code and probably do it every day.
 You only need to learn the syntax of the programming language you choose to code in.
 
 This time, we will do some actual coding to bring your inner coder out.
