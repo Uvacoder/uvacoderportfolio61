@@ -11,12 +11,12 @@ This time, we will do some actual coding to bring your inner coder out.
 First we will need a place write and run the code, so open <a href="https://replit.com/languages/python3" target="_blank">ReplIt</a> on a new tab to follow along.
 At the end of this article, you will have enough essential coding skill to progress on your own.
 
-I request you follow along, do not copy-paste the code; read and type everything yourself. 
+I request you follow along, do not copy-paste the code; read and type everything yourself.
 
 > Repetition is how we learn.  
 > Repetition is how we learn.  
 > Repetition is how we learn.  
-> Repetition is….  
+> Repetition is….
 
 I hope you got the notion.
 
@@ -57,7 +57,6 @@ xyz = 7777777777
 def send_message():
   print("Hello from a function")
 ```
-
 
 We already know that the only values that will change while sending a message are the `recipient` and the `message text`. We need to find a way to pass values to the function. Let’s as google about it.
 
@@ -108,6 +107,7 @@ send_message(akash, ‘Hello World’)
 ```
 
 Run it now, and if everything goes well, you will see the following output.
+
 ```
 Sending a message…
 9999999999
@@ -123,14 +123,14 @@ Pick up another feature of your phone and try to visualize it using code just li
 If you get stuck, help is just a google search away.
 Do not be afraid to use google. Even expert programmers look up google all the time.
 
-
 > Repetition is how we learn.  
 > Repetition is how we learn.  
-> Repetition is how we learn. 
+> Repetition is how we learn.
 
 You will slowly start to rely less on Google searches.
 
 ## You do not need to know everything
+
 Most of the online tutorials I came across burden you at the initial stage with all the information you do not need when starting out.
 You do not need to know and remember all data types.
 You do not need to understand all the coding terminology and complicated concepts, and I believe knowing more overwhelms you and make programming look a challenging task.
@@ -138,7 +138,7 @@ You do not need to understand all the coding terminology and complicated concept
 That’s how I learned to program.
 
 > Don’t copy-paste code; read and type out yourself.
-> 
+>
 > Use less of your memory, more of your brain.
-> 
+>
 > Rely less on tutorials and more on creativity.

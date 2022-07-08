@@ -9,10 +9,11 @@ I was always fascinated by computers and rapidly emerging technology.
 I knew I would never be able to program something amazing myself as I chose to pursue finance and taxation, but still, that fascination was alive.
 
 My academics kept me occupied, but I was not enjoying it.
-One day, a thought struck me: "Is there a technology I can use to  automate all my non-intellect tasks?"
+One day, a thought struck me: "Is there a technology I can use to automate all my non-intellect tasks?"
 
 The seed is now sown, and my search for automation software started.
 I came across some amazing softwares like:
+
 - [AutoHotkey](https://www.autohotkey.com/)
 - [AutoIt](https://www.autoitscript.com/site/)
 
@@ -60,4 +61,5 @@ Now I was out of tutorial hell, and I had a source of unlimited ideas that I cou
 Though I no longer work on Fiverr, it was a good journey.
 
 ### An overview of my progress tracked by Github contributions
+
 ![ak4zh-github-contributions](./ak4zh-contributions-light.png)

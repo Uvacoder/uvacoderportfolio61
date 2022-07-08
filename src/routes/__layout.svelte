@@ -6,20 +6,19 @@
   import SunIcon from 'heroicons-svelte/solid/SunIcon.svelte'
   import { browser } from '$app/env'
   import { name } from '$lib/info'
+  import NavLink from '$lib/components/NavLink.svelte'
 
   let prefersLight = browser ? Boolean(JSON.parse(localStorage.getItem('prefersLight'))) : false
 </script>
 
 <div class="flex flex-col min-h-screen">
-  <div class="mx-auto flex flex-col flex-grow w-full max-w-4xl">
+  <div class="max-w-4xl mx-auto flex flex-col flex-grow w-full">
     <div class="flex h-16 px-4 py-2 justify-between items-center">
-      <h2
-        class="!text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-teal-500 dark:from-violet-500 dark:to-pink-500"
-      >
-        <a class="text-lg sm:text-2xl font-bold" href="/">
-          {name}
-        </a>
-      </h2>
+      <nav class="flex items-center space-x-4 sm:space-x-8">
+        <NavLink href="/">ak4zh</NavLink>
+        <NavLink href="/projects">projects</NavLink>
+        <NavLink href="/posts">blog</NavLink>
+      </nav>
       {#if browser}
         <button
           type="button"
@@ -47,7 +46,7 @@
       {/if}
     </div>
     <main
-      class="prose prose-slate prose-sm sm:prose sm:prose-slate sm:prose-lg sm:max-w-none dark:prose-invert flex flex-col w-full flex-grow py-4 px-4"
+      class="mt-4 flex flex-col w-full flex-grow py-4 px-4 prose prose-slate prose-sm sm:prose sm:prose-slate sm:prose-lg sm:max-w-none dark:prose-invert"
     >
       <slot />
     </main>
