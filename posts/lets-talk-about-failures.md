@@ -38,7 +38,7 @@ Human connection is not easy for everyone. I have always struggled to understand
 
 #### Relationship Failure
 
-Honestly sharing a failure so personal to yourself is most terrifying, I am reluctant to share this but I believe I can allow myself to be vulnerable this time. While I was switching my career from finance to computer science, I have gone through one of the major failures of my life. Not all failures are the pillars of your upcoming success. Sometimes we do everything right but still, fail and cannot do anything about it.
+Honestly sharing a failure so personal to yourself is more terrifying, I am reluctant to share this, but I believe I can allow myself to be vulnerable this time. While I was switching my career from finance to computer science, I was working eighteen hours a day for six months straight. I was exhausted and had no time left to devote to anything else, and it led to one of the biggest failures of my life. Not all failures are the pillars of your upcoming success. Sometimes we do everything right but still, fail and cannot do anything about it.
 
 ### Professional Failures
 
