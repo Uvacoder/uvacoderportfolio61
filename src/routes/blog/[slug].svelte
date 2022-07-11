@@ -13,8 +13,8 @@
     // load the markdown file based on slug
     const component = props.post.isIndexFile
       ? // vite requires relative paths and explicit file extensions for dynamic imports
-        await import(`../../../posts/${props.post.slug}/index.md`)
-      : await import(`../../../posts/${props.post.slug}.md`)
+        await import(`../../../blog/${props.post.slug}/index.md`)
+      : await import(`../../../blog/${props.post.slug}.md`)
 
     return {
       props: {
@@ -95,7 +95,7 @@
 </article>
 
 <div class="pt-12 flex justify-between">
-  <ButtonLink href={`/posts`}>
+  <ButtonLink href={`/blog`}>
     <slot slot="icon-start">
       <ArrowLeftIcon class="h-5 w-5" />
     </slot>

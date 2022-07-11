@@ -7,7 +7,7 @@ export async function get({ params }) {
 
   if (params.page) {
     try {
-      // a url of /posts/page/2 will come through as 'page/2' for params.page
+      // a url of /blog/page/2 will come through as 'page/2' for params.page
       const index = params.page.split('page/').pop()
 
       if (index) {
@@ -25,7 +25,7 @@ export async function get({ params }) {
     return {
       status: 302,
       headers: {
-        location: `/posts`
+        location: `/blog`
       }
     }
   }

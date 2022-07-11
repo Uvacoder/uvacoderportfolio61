@@ -23,7 +23,7 @@ export function getPosts({ page = 1, limit } = {}) {
 }
 
 // Get all posts and add metadata
-const posts = Object.entries(import.meta.globEager('/posts/**/*.md'))
+const posts = Object.entries(import.meta.globEager('/blog/**/*.md'))
   .map(([filepath, post]) => {
     return {
       ...post.metadata,
@@ -35,7 +35,7 @@ const posts = Object.entries(import.meta.globEager('/posts/**/*.md'))
         .pop(),
 
       // whether or not this file is `my-post.md` or `my-post/index.md`
-      // (needed to do correct dynamic import in posts/[slug].svelte)
+      // (needed to do correct dynamic import in blog/[slug].svelte)
       isIndexFile: filepath.endsWith('/index.md'),
 
       // format date as yyyy-MM-dd

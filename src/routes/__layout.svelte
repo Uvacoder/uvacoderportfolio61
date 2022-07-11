@@ -17,7 +17,7 @@
       <nav class="flex items-center space-x-4 sm:space-x-8">
         <NavLink href="/">ak4zh</NavLink>
         <NavLink href="/projects">projects</NavLink>
-        <NavLink href="/posts">blog</NavLink>
+        <NavLink href="/blog">blog</NavLink>
       </nav>
       {#if browser}
         <button

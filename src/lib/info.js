@@ -8,6 +8,6 @@
 export const name = 'ak4zh' // replace with your name
 
 /**
- * Used for SEO in /posts/[slug]
+ * Used for SEO in /blog/[slug]
  */
 export const website = 'https://ak4zh.com'

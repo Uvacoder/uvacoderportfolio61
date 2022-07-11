@@ -1,13 +1,13 @@
 // This is an endpoint that generates a basic rss feed for your posts.
 // It is OK to delete this file if you don't want an RSS feed.
-// credit: https://scottspence.com/posts/make-an-rss-feed-with-sveltekit#add-posts-for-the-rss-feed
+// credit: https://scottspence.com/blog/make-an-rss-feed-with-sveltekit#add-posts-for-the-rss-feed
 
 import { getPosts } from '$lib/get-posts'
 import { name, website } from '$lib/info'
 
 // update this to something more appropriate for your website
 const websiteDescription = `${name}'s blog`
-const postsUrl = `${website}/posts`
+const postsUrl = `${website}/blog`
 
 /**
  * @type {import('@sveltejs/kit').RequestHandler}
