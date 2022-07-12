@@ -43,7 +43,7 @@ Updated search query:
 coronavirus filetype:pdf site:gov.in
 ```
 
-### Exclude something from the results
+### Exclude something
 You can use the hyphen `-` to exclude a keyword or even combine it with other search operators to exclude a filetype or a site.
 Updated search query:
 ```
