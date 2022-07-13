@@ -21,7 +21,7 @@ So I decided to do something about this. I hand drawn an ugly blueprint of how t
 Since the website is all about failures I wanted to keep the design pretty dull and not contain flash of colors, so I decided to settle with just one color and play with tranparency to create different shades. Now the initial mockup is ready to be tested with real users.
 
 ## Validatioin and Testing
-With this post I am moving to the next stage of validation and testing the app. Anyone interested can signup and test the app. Create and share your own bummer. I am not sure what the future of bummer is, it may become a place hosting hundreds of bummers or just get added as another items in my bummer profile.
+With this post I am moving to the next stage of validation and testing the app. Anyone interested can signup and test the app. Create and share your own bummers. I am not sure what the future of bummer is, it may become a place hosting hundreds of bummers or just get added as another item in my bummer profile.
 
 Bummer is open source and comes with MIT licence so you can also dig inside the source code of the website at github and get inspired.
 - **Website:** https://bummer.me
