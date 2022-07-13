@@ -3,7 +3,7 @@ title: Introducing bummer
 date: 2022-07-13
 ---
 
-A few days back I posted [Let's talk about failures](./lets-talk-about-failures), where I talked about the importance of sharing failures out in the open. It received a good response and some people told me they liked the idea. It got me thinking if people are liking this idea, why is it not a real thing yet. Are there any existing platform where I can create a resume of failure and share it publically.
+A few days back I posted [Let's talk about failures](/blog/lets-talk-about-failures), where I talked about the importance of sharing failures out in the open. It received a good response and some people told me they liked the idea. It got me thinking if people are liking this idea, why is it not a real thing yet. Are there any existing platform where I can create a resume of failure and share it publically.
 
 ## Research stage
 I did some research and realised that the concept of Failure resume is nothing new. A lot of successfull people maintain a failure resume to to keep track of their failures.
