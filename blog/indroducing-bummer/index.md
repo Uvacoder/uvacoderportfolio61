@@ -13,8 +13,10 @@ I did some research and realized that the concept of Failure resume is nothing n
 I have realized that the concept of a failure resume is quite established already and there must be many web apps allowing you to create your failure resume. But when I searched for such apps all I found were a bunch of resume builder apps focusing on your achievements.
 
 ## Prototyping
+So I decided to do something about this.
+
 ### Blueprint
-So I decided to do something about this. I hand-drawn an ugly blueprint of what the app should look like. 
+I hand-drawn an ugly blueprint of what the app should look like. 
 ![Bummer Blueprint](./bummer-blueprint.png)
 
 ### App naming
