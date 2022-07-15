@@ -20,11 +20,11 @@ By the end of March 2020, I started to see multiple clones of conflux bot emergi
 
 ## The big mistake
 
-In those days, I used to have a telegram group where my customers could discuss ideas and give me direct feedback so I could improve the software. In the past two years I had already implemented every single feature users had requested and I was not getting much of new requests as users were already happy with the current set of features.
+In those days, I used to have a telegram group where my clients could discuss ideas and give me direct feedback so that I could improve the software. In the past two years I had already implemented every single feature users had requested and I was not new requests, as _users were already satisfied_ with the current set of features.
 
-I realised I made the following two major mistakes:
+I realized I made the following two major mistakes:
 
-- I stopped innovating and improving the product as I assumed users are already satisfied.
+- I stopped innovating and improving the product as I assumed users were already satisfied.
 - I kept the database of customers out in the open (the telegram discussion group).
 
 Few of these copycat developers got their hands on my customers list, and they started poaching my clients.
@@ -35,7 +35,7 @@ At that time, the membership of ConfluxBot was $15 a month. These copycat develo
 Everyone loves savings, so it attracted some price-sensitive customers immediately, and in the next two months, I had already lost 40-45% of my business to these competitors.
 I would not blame it on them, as I was impressed by a few of the competitors offering many more features than Conflux at half the price. I would have made the switch myself.
 
-I did attempt to implement all the competitor's features on Conflux quickly, but it was not an easy path. Conflux codebase is now two years old and has seen many iterations over the period. Now the codebase was a mess, and I had made some bad design decisions at the early stage, making it impossible to implement some of the new features.
+I did attempt to implement all the competitor’s features on Conflux quickly, but it was not an easy path. Conflux codebase was two years old and had seen many iterations over the period. The existing codebase was a mess, and I had made some bad design decisions at the early stage, making it impossible to implement some of the new features.
 
 ## I was furious, frustrated and disappointed
 
