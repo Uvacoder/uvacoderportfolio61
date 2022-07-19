@@ -34,3 +34,7 @@ So that’s why I choose the name stooge. Stooge helps you to deliver your story
 That’s how stooge was born.
 
 I would appreciate any feedback or suggestions you may have.
+
+## Links
+- **Website:** https://stooge.me
+- **Launch post:** https://www.producthunt.com/posts/stooge
