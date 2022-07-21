@@ -4,7 +4,7 @@ date: 2022-07-21
 preview: The only way to learn something is by doing, and the only way to make your learning faster is by sharing what you learn. At every stage of our life we are learning something, our learning will never end.
 ---
 
-The only way to learn something is by doing, and the only way to make your learning faster is by sharing what you learn. At every stage of our life we are learning something, our learning will never end. But we learn slow or even give up learning because we learn in private. We cave ourselves with the fear of being judged if we fail to learn, if what we have learned so far is minute compared to our peers. The inspiration of this post comes from an article I read long ago, [Learn in public](https://www.swyx.io/learn-in-public/) by swyx.
+The only way to learn something is by doing, and the only way to make your learning faster is by sharing what you learn. At every stage of our life we are learning something, our learning will never end. But we learn slow or even give up learning because we learn in private. We cave in ourselves with the fear of being judged if we fail to learn, if what we have learned so far is minute compared to our peers. The inspiration of this post comes from an article I read long ago, [Learn in public](https://www.swyx.io/learn-in-public/) by swyx.
 
 No matter what you are learning, document your learning journey, and share it. No matter how much or how less you know, there will always be people who know lesser and will benefit from you. There will also be people who know a lot more and might get interested to guide you. Internet is full of interesting people always ready to help but unless you learn in public they do not know you exist.
 
