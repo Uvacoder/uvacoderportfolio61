@@ -20,7 +20,7 @@ I hand-drawn an ugly blueprint of what the app should look like.
 ![Bummer Blueprint](./bummer-blueprint.png)
 
 ### App naming
-Once I have the blueprint ready, I started thinking about a suitable name for the app. After considering many options I settled down with **"bummer"**.  Bummer means _a disappointing or unpleasant situation or experience._ The domain [bummer](https://bummer.me) was available so I immediately purchased it and started working on the app idea.
+Once I had the blueprint ready, I started thinking about a suitable name for the app. After considering many options I settled down with **"bummer"**.  Bummer means _a disappointing or unpleasant situation or experience._ The domain [bummer.me](https://bummer.me) was available so I immediately purchased it and started working on the app idea.
 
 
 ## Initial Design
