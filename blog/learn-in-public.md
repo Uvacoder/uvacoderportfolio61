@@ -1,5 +1,5 @@
 ---
-title: Don’t cave in when you learn
+title: Don’t cave in while you learn
 date: 2022-07-21
 preview: The only way to learn something is by doing, and the only way to make your learning faster is by sharing what you learn. At every stage of our life we are learning something, our learning will never end.
 ---
