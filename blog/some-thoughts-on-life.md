@@ -1,6 +1,6 @@
 ---
 title: Some random thoughts on life
-date: 2022-07-18
+date: 2022-07-23
 ---
 
 This post is not about software, technology, or any interesting story. If you are reading for something interesting, skip it. This post is just a collection of some of my random thoughts about life, love, relationships, society, and pain. I am not even sure what I am going to write. I will probably ramble a lot.
