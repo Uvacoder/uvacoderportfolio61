@@ -9,6 +9,6 @@ Debugging humans on the other hand is different. Mechanical errors are quite eas
 
 But when we talk about mental well-being, it’s a different story. You feel pain somewhere in your body for some reason. You don’t know if it’s your brain or your heart that’s hurting. You don’t know if the reason for the hurt is you or someone else. You don’t have an exact reference point to compare to when it was not hurting. 
 
-The pain is not physical and hence not visible. But the error is still there, causing the issue.
+The pain is not physical and hence not visible. You cannot replicate the issue, so you cannot ask someone else to debug it for you. But the error is still there, causing the issue.
 
 The only information you have is that something is wrong, somewhere. And that is not a fun problem to deal with.
