@@ -31,6 +31,7 @@ breathing in; breathing out.<br>
 I can hear the breathing,<br>
 I can feel the warmth.<br>
 Why is he breathing?<br>
+Why is he alive?<br>
 I don’t know.
 
 I see him working,<br>
@@ -41,7 +42,6 @@ I don’t know.
 
 What is the purpose of anything I see?<br>
 What is the purpose of anything I write?<br>
-Why is that someone still alive?<br>
 What is the purpose of work?<br>
 What is the purpose of life?<br>
 I don’t know.
