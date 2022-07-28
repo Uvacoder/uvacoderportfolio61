@@ -1,10 +1,7 @@
 ---
 title: I don’t know
 date: 2022-07-28
-preview: Why am I writing this post? Why do I even have a blog? Does anyone even read what I write? I don’t know.
-
-Do I love to write?  
-I don’t know.
+preview: Why am I writing this post? Why do I even have a blog? Does anyone even read what I write? I don’t know. Do I love to write? I don’t know.
 ---
 
 Why am I writing this post?<br>
