@@ -15,9 +15,8 @@ I don’t know.
 Maybe I just want to sleep.<br>
 Maybe I just want some peace.
 
-I am still, I am silent, I am blank,<br>
-I am empty inside.<br>
-My eyes are closed, my fan is off,<br>
+I'm still, I'm quiet, I'm empty inside.
+My eyes are shut, my fan is off,<br>
 there’s no voice, there’s no noise.<br>
 
 I see obscurity, and I see somebody in darkness.<br>
@@ -50,7 +49,7 @@ Maybe I just want some peace.<br>
 Maybe that’s the purpose of life.<br>
 But, I don’t know.
 
-My eyes are closed, my fan is off,<br>
+My eyes are shut, my fan is off,<br>
 there’s no voice, there’s no noise,<br>
 I still can’t sleep.<br>
 Why? I don’t know.
