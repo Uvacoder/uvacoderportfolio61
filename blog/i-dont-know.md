@@ -5,66 +5,66 @@ date: 2022-07-28
 
 Why am I writing this post?<br>
 Why do I even have a blog?<br>
-Does anyone even read what I write?\
+Does anyone even read what I write?<br>
 I don’t know.
 
-Do I want to write?
+Do I want to write?<br>
 I don’t know.
 
-Maybe I just want to sleep.
+Maybe I just want to sleep.<br>
 Maybe I just want some peace.
 
-I am still, I am silent, I am blank,
-I am empty inside.
-My eyes are closed, my fan is off,
-there’s no voice, there’s no noise.
+I am still, I am silent, I am blank,<br>
+I am empty inside.<br>
+My eyes are closed, my fan is off,<br>
+there’s no voice, there’s no noise.<br>
 
-I see some darkness,
-and I see someone standing in the dark.
-Maybe it’s me.
-How do I see, even though my eyes are closed?
+I see some darkness,<br>
+and I see someone standing in the dark.<br>
+Maybe it’s me.<br>
+How do I see, even though my eyes are closed?<br>
+I don’t know.<br>
+
+I see, that someone is breathing,<br>
+breathing in; breathing out.<br>
+I can hear the breathing,<br>
+I can feel the warmth.<br>
+Why is he breathing?<br>
 I don’t know.
 
-I see, that someone is breathing,
-breathing in; breathing out.
-I can hear the breathing,
-I can feel the warmth.
-Why is he breathing?
+I see him working,<br>
+he works, he sleeps,<br>
+he wakes up, he works.<br>
+Why does he work?<br>
 I don’t know.
 
-I see him working,
-he works, he sleeps,
-he wakes up, he works.
-Why does he work?
+Is he working to make money?<br>
+What will he do with the money?<br>
 I don’t know.
 
-Is he working to make money?
-What will he do with the money?
+What is the purpose of anything I see?<br>
+What is the purpose of anything I write?<br>
+Why is that someone still alive?<br>
+What is the purpose of work?<br>
+What is the purpose of life?<br>
 I don’t know.
 
-What is the purpose of anything I see?
-What is the purpose of anything I write?
-Why is that someone still alive?
-What is the purpose of work?
-What is the purpose of life?
+Honestly, I don’t know anything.<br>
+Why do we work to earn some papers, and exchange those for food and land?<br>
+We can just live on wild land and grow our own food.<br>
+Why do we need someone to love us?<br>
+Don’t we love ourselves enough?<br>
+What is the purpose of anything in life?<br>
 I don’t know.
 
-Honestly, I don’t know anything.
-Why do we work to earn some papers, and exchange those for food and land?
-We can just live on wild land and grow our own food.
-Why do we need someone to love us?
-Don’t we love ourselves enough?
-What is the purpose of anything in life?
-I don’t know.
-
-Maybe I just want to sleep.
-Maybe I just want some peace.
-Maybe that’s the purpose of everything.
-Maybe that’s all that matters.
+Maybe I just want to sleep.<br>
+Maybe I just want some peace.<br>
+Maybe that’s the purpose of everything.<br>
+Maybe that’s all that matters.<br>
 But, I don’t know.
 
-My eyes are closed, my fan is off,
-there’s no voice, there’s no noise,
-But I can’t sleep.
-I don’t have peace.
+My eyes are closed, my fan is off,<br>
+there’s no voice, there’s no noise,<br>
+But I can’t sleep.<br>
+I don’t have peace.<br>
 Why? I don’t know.
