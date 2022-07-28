@@ -48,8 +48,7 @@ I don’t know.
 
 Maybe I just want to sleep.<br>
 Maybe I just want some peace.<br>
-Maybe that’s the purpose of everything.<br>
-Maybe that’s all that matters.<br>
+Maybe that’s the purpose of life.<br>
 But, I don’t know.
 
 My eyes are closed, my fan is off,<br>
