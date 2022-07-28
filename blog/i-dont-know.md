@@ -34,7 +34,7 @@ I don’t know.
 
 I see him working,<br>
 he works, he sleeps,<br>
-he wakes up, he works.<br>
+he wakes up, he works again.<br>
 Why does he work?<br>
 I don’t know.
 
