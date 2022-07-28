@@ -3,9 +3,9 @@ title: I don’t know
 date: 2022-07-28
 ---
 
-Why am I writing this post?
-Why do I even have a blog?
-Does anyone even read what I write?
+Why am I writing this post?<br>
+Why do I even have a blog?<br>
+Does anyone even read what I write?\
 I don’t know.
 
 Do I want to write?
