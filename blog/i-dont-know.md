@@ -38,10 +38,6 @@ he wakes up, he works.<br>
 Why does he work?<br>
 I don’t know.
 
-Is he working to make money?<br>
-What will he do with the money?<br>
-I don’t know.
-
 What is the purpose of anything I see?<br>
 What is the purpose of anything I write?<br>
 Why is that someone still alive?<br>
@@ -57,6 +53,7 @@ But, I don’t know.
 
 My eyes are closed, my fan is off,<br>
 there’s no voice, there’s no noise,<br>
-But I can’t sleep.<br>
-I don’t have peace.<br>
+I still can’t sleep.<br>
 Why? I don’t know.
+
+One thing I know for sure is I am finding peace as I write.
