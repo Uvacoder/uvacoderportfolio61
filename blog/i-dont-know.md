@@ -49,14 +49,6 @@ What is the purpose of work?<br>
 What is the purpose of life?<br>
 I don’t know.
 
-Honestly, I don’t know anything.<br>
-Why do we work to earn some papers, and exchange those for food and land?<br>
-We can just live on wild land and grow our own food.<br>
-Why do we need someone to love us?<br>
-Don’t we love ourselves enough?<br>
-What is the purpose of anything in life?<br>
-I don’t know.
-
 Maybe I just want to sleep.<br>
 Maybe I just want some peace.<br>
 Maybe that’s the purpose of everything.<br>
