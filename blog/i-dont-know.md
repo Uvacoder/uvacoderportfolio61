@@ -20,10 +20,9 @@ I am empty inside.<br>
 My eyes are closed, my fan is off,<br>
 there’s no voice, there’s no noise.<br>
 
-I see some darkness,<br>
-and I see someone standing in the dark.<br>
+I see obscurity, and I see somebody in darkness.<br>
 Maybe it’s me.<br>
-How do I see, even though my eyes are closed?<br>
+How can I see even with my eyes shut?<br>
 I don’t know.<br>
 
 I see, that someone is breathing,<br>
