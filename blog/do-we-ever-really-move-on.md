@@ -29,4 +29,4 @@ Just tell me, do we ever really move on?<br>
 Or it’s just the mask we put on?
 
 Tell me baby, do we ever really move on?<br>
-Or it’s just the mast we put on?
+Or it’s just the mask we put on?
