@@ -1,6 +1,6 @@
 ---
 title: I own a smartphone
-date: 2022-08-01
+date: 2022-07-31
 ---
 
 I own a smartphone.  
