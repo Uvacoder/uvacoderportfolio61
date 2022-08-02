@@ -63,12 +63,8 @@ There are many unnamed projects that I tried and have failed for various reasons
 
 Because it is difficult to talk about. It makes you vulnerable. It allows people to see who you really are. Once you allow yourself to be vulnerable and talk about your failures in open, you are no longer afraid to fail. It will give you the ability, to recognize when accepting defeat is the right course of action.
 
-> Let’s start being transparent.
->
-> Let’s allow us to be fully seen.
->
-> Let’s start talking about our failures.
->
-> Let people see how miserable we were and still are.
->
-> Let’s make ourselves vulnerable, so we can experience a deeper level of compassion and intimacy.
+Let’s start being transparent.  
+Let’s allow us to be fully seen.  
+Let’s start talking about our failures.  
+Let people see how miserable we were and still are.  
+Let’s make ourselves vulnerable, so we can experience a deeper level of compassion and intimacy.

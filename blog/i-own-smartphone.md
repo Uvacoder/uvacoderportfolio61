@@ -26,3 +26,8 @@ and I hate that.
 
 Yes, I own a smartphone,  
 But one day I won’t.
+
+
+<div class="text-center text-xs font-thin">
+    This work is licensed under <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>
+</div>

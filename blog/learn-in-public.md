@@ -28,8 +28,6 @@ I got the opportunity to have a one to one talk with some of the amazing softwar
 
 **Learn in public.**
 
-_It makes you a fast learner._
-
-_It opens up the world of opportunities._
-
-_It puts you in a favourable situation and creates luck for you._
+It makes you a fast learner.  
+It opens up the world of opportunities.  
+It puts you in a favourable situation and creates luck for you.

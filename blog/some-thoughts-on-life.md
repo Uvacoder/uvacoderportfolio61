@@ -25,14 +25,12 @@ Your child was probably not even trying to put you in trouble. Maybe they are st
 
 ## Final thoughts
 
-We all make mistakes.
+We all make mistakes.  
+We all want to be accepted and loved, and mistakes can make us feel unlovable and flawed. We forget that everyone’s been there before and will be there again.  
+No matter how hard we practice, we will occasionally trip up. And we have to accept that.  
+We need to try to develop the same parent-child depth of love in our other relationships, that matter.  
+We need to give up less on the people we love. The people who share that depth of love with us will always be there. No matter what.
 
-We all want to be accepted and loved, and mistakes can make us feel unlovable and flawed. We forget that everyone’s been there before and will be there again.
-
-No matter how hard we practice, we will occasionally trip up. And we have to accept that.
-
-We need to try to develop the same parent-child depth of love in our other relationships, that matter.
-
-We need to give up less on the people we love. The people who share that depth of love with us will always be there. No matter what. 
-
-We do not always get an opportunity to fix our mistakes. But sometimes we do. And fixing mistakes is not going to be an easy task, it will look impossible. Now whether we should fix it or not, totally depends on how much the outcome matters in our life.
+We do not always get an opportunity to fix our mistakes.  
+But sometimes we do. Fixing mistakes is not going to be an easy task, it will look impossible.  
+Now whether we should fix it or not, totally depends on how much the outcome matters in our life.
