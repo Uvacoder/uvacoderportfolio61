@@ -4,7 +4,7 @@ import { getPosts } from '$lib/get-posts'
 export async function get() {
   return {
     body: {
-      recentPosts: getPosts({ limit: 2 })
+      recentPosts: getPosts({ limit: 200 })
     }
   }
 }
