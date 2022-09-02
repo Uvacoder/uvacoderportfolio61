@@ -55,7 +55,3 @@ I still can’t sleep.
 Why? I don’t know.
 
 One thing I know for sure is I am finding peace as I write.
-
-<div class="text-center text-xs font-thin">
-    This work is licensed under <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>
-</div>
