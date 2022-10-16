@@ -13,17 +13,17 @@
 <div class="container px-6 py-16 mx-auto text-center">
   <div class="max-w-lg mx-auto">
     <h1 class="mb-3 text-3xl font-bold tracking-tight text-black dark:text-white md:text-5xl">
-      Akash
+      Ned 
       <span
         class="relative ml-2 inline-block before:absolute before:-inset-1 before:block before:-skew-y-3 before:bg-gradient-to-r from-blue-500 to-teal-500 dark:from-violet-500 dark:to-pink-500"
-        ><span class="relative skew-y-3 text-white">@ak4zh</span></span
+        ><span class="relative skew-y-3 text-white">@uvacoder</span></span
       >
-      Agarwal
+      Ryerson
     </h1>
 
     <div class="mt-8 space-y-2">
       <p class="mt-6 text-gray-500 dark:text-gray-300">
-        <span class="mx-2">A self-taught full stack developer</span>
+        <span class="mx-2">Im Phil Conners best friend</span>
       </p>
 
       <p class="mt-6 text-gray-700 dark:text-gray-200 font-light">
